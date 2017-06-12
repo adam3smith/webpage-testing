@@ -3,4 +3,4 @@ title: John Doe's Homepage
 layout: default
 ---
 
-This is the beginning of the *Page*
+My Resume is [here](/webpage-testing/myresume.html)
