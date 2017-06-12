@@ -1,5 +1,5 @@
 ---
-title: Home
+title: John Doe's Resume
 layout: default
 ---
 
